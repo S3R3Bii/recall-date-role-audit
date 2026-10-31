@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "finite_conditions": 273,
+  "used_numeric_bindings": 48,
+  "pages": 5,
+  "scope_files": 5,
+  "scope": "Actual TeX usage, source values, PDF text and case coverage, finite provenance facts, explicit limitations and reviewed scoped hashes. Native visual/source review recorded separately."
+}

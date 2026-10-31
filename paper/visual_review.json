@@ -1,0 +1,26 @@
+{
+  "manuscript_sha256": "c932c651c47a09b63418d7b0342aa9f215579eaf0c6cb7d55e2141381b506c6b",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "figure_pngs_reviewed": [
+    "event_role_counts",
+    "field_and_api_dates",
+    "reported_date_differences"
+  ],
+  "rendered_page_hashes": {
+    "1": "36f41ba82f27c64f8cdec22d762f44abc6d673f0df3d86818d9cd3133609b107",
+    "2": "f7af304f755f5fe505b7bbb2be277d49ab55a89b5554a05d5ea07c4b363ad2c0",
+    "3": "69949420f034df39c2a41ac55c6380abc53bc777e9a06bb18e44e1ea59ba5e75",
+    "4": "48a82b5044a4d681caaf814492413c1df63effe571c60aa11d864d440e56eed2",
+    "5": "ac6c3eca161172a6bb19b0903c537b968f71c646163df85fbb936504c545cde9"
+  },
+  "result": "PASS:complete case and exercise tables, readable hierarchy, source-bound labels/units, intact figures and margins; no TeX overfull/underfull boxes.",
+  "limitations": "Relevant native source pages and current paper reviewed; no claim of accessibility conformance or universal correctness.",
+  "prior_layout_failure_retained": true,
+  "whitespace_revision_pixel_check": "PASS:all5 pages exactly equal in RGB pixels to the inspected version"
+}

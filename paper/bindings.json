@@ -1,0 +1,585 @@
+[
+  {
+    "name": "CaseCount",
+    "file": "results/summary.json",
+    "field": [
+      "campaigns_returned"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "12"
+  },
+  {
+    "name": "GenericCount",
+    "file": "results/summary.json",
+    "field": [
+      "category_counts",
+      "MATCH_GENERIC_NOTICE"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "6"
+  },
+  {
+    "name": "ConflictCount",
+    "file": "results/summary.json",
+    "field": [
+      "category_counts",
+      "CONFLICTING_DATES"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "1"
+  },
+  {
+    "name": "UnknownCount",
+    "file": "results/summary.json",
+    "field": [
+      "category_counts",
+      "UNRESOLVED"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "5"
+  },
+  {
+    "name": "PastCount",
+    "file": "results/summary.json",
+    "field": [
+      "api_past_assertion_campaigns"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "7"
+  },
+  {
+    "name": "ExpectedCount",
+    "file": "results/summary.json",
+    "field": [
+      "api_planned_only_campaigns"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "5"
+  },
+  {
+    "name": "DocumentCount",
+    "file": "results/summary.json",
+    "field": [
+      "adjudicated_documents"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "60"
+  },
+  {
+    "name": "PageCount",
+    "file": "results/summary.json",
+    "field": [
+      "document_pages"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "170"
+  },
+  {
+    "name": "PlanCount",
+    "file": "results/summary.json",
+    "field": [
+      "planned_report_rows"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "29"
+  },
+  {
+    "name": "FlatRows",
+    "file": "results/summary.json",
+    "field": [
+      "flat_model_rows"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "182"
+  },
+  {
+    "name": "ApiRows",
+    "file": "results/summary.json",
+    "field": [
+      "api_model_records"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "113"
+  },
+  {
+    "name": "FreezeCount",
+    "file": "PLAN_FREEZE.json",
+    "field": [
+      "dependencies"
+    ],
+    "query": null,
+    "operation": "length",
+    "display": "25"
+  },
+  {
+    "name": "FigureConditions",
+    "file": "figures/verification.json",
+    "field": [
+      "finite_conditions"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "190"
+  },
+  {
+    "name": "FigureArtists",
+    "file": "figures/verification.json",
+    "field": [
+      "source_bound_artists"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "36"
+  },
+  {
+    "name": "ReplayOld",
+    "file": "results/reproduction_cpython310.json",
+    "field": [
+      "python"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "3.10.11"
+  },
+  {
+    "name": "ReplaySourcesOld",
+    "file": "results/reproduction_cpython310.json",
+    "field": [
+      "unchanged_source_files"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "13"
+  },
+  {
+    "name": "ReplayNew",
+    "file": "results/reproduction_cpython312.json",
+    "field": [
+      "python"
+    ],
+    "query": null,
+    "operation": null,
+    "display": "3.12.14"
+  },
+  {
+    "name": "FieldA",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V001000"
+    },
+    "operation": null,
+    "display": "2023-01-31"
+  },
+  {
+    "name": "ApiA",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V001000"
+    },
+    "operation": null,
+    "display": "2023-03-01"
+  },
+  {
+    "name": "FieldB",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V002000"
+    },
+    "operation": null,
+    "display": "2023-01-17"
+  },
+  {
+    "name": "ApiB",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V002000"
+    },
+    "operation": null,
+    "display": "2023-01-17"
+  },
+  {
+    "name": "DaysB",
+    "file": "results/cases.json",
+    "field": [
+      "field_minus_reported_notice_days",
+      0,
+      "days"
+    ],
+    "query": {
+      "campaign": "23V002000"
+    },
+    "operation": null,
+    "display": "0"
+  },
+  {
+    "name": "FieldC",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V003000"
+    },
+    "operation": null,
+    "display": "2023-02-16"
+  },
+  {
+    "name": "ApiC",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V003000"
+    },
+    "operation": null,
+    "display": "2023-03-10"
+  },
+  {
+    "name": "FieldD",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V004000"
+    },
+    "operation": null,
+    "display": "2023-01-20"
+  },
+  {
+    "name": "ApiD",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V004000"
+    },
+    "operation": null,
+    "display": "2023-01-20"
+  },
+  {
+    "name": "DaysD",
+    "file": "results/cases.json",
+    "field": [
+      "field_minus_reported_notice_days",
+      0,
+      "days"
+    ],
+    "query": {
+      "campaign": "23V004000"
+    },
+    "operation": null,
+    "display": "0"
+  },
+  {
+    "name": "FieldE",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V005000"
+    },
+    "operation": null,
+    "display": "2023-02-07"
+  },
+  {
+    "name": "ApiE",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V005000"
+    },
+    "operation": null,
+    "display": "2023-03-02"
+  },
+  {
+    "name": "DaysE",
+    "file": "results/cases.json",
+    "field": [
+      "field_minus_reported_notice_days",
+      0,
+      "days"
+    ],
+    "query": {
+      "campaign": "23V005000"
+    },
+    "operation": null,
+    "display": "-23"
+  },
+  {
+    "name": "FieldF",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V006000"
+    },
+    "operation": null,
+    "display": "2023-02-09"
+  },
+  {
+    "name": "ApiF",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V006000"
+    },
+    "operation": null,
+    "display": "2023-02-01"
+  },
+  {
+    "name": "FieldG",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V007000"
+    },
+    "operation": null,
+    "display": "2023-03-10"
+  },
+  {
+    "name": "ApiG",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V007000"
+    },
+    "operation": null,
+    "display": "2023-03-17"
+  },
+  {
+    "name": "FieldH",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V008000"
+    },
+    "operation": null,
+    "display": "2023-03-17"
+  },
+  {
+    "name": "ApiH",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V008000"
+    },
+    "operation": null,
+    "display": "2023-03-17"
+  },
+  {
+    "name": "DaysH",
+    "file": "results/cases.json",
+    "field": [
+      "field_minus_reported_notice_days",
+      0,
+      "days"
+    ],
+    "query": {
+      "campaign": "23V008000"
+    },
+    "operation": null,
+    "display": "0"
+  },
+  {
+    "name": "FieldI",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V009000"
+    },
+    "operation": null,
+    "display": "2023-02-01"
+  },
+  {
+    "name": "ApiI",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V009000"
+    },
+    "operation": null,
+    "display": "2023-02-01"
+  },
+  {
+    "name": "DaysI",
+    "file": "results/cases.json",
+    "field": [
+      "field_minus_reported_notice_days",
+      0,
+      "days"
+    ],
+    "query": {
+      "campaign": "23V009000"
+    },
+    "operation": null,
+    "display": "0"
+  },
+  {
+    "name": "FieldJ",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V010000"
+    },
+    "operation": null,
+    "display": "2023-02-23"
+  },
+  {
+    "name": "ApiJ",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V010000"
+    },
+    "operation": null,
+    "display": "2023-02-23"
+  },
+  {
+    "name": "DaysJ",
+    "file": "results/cases.json",
+    "field": [
+      "field_minus_reported_notice_days",
+      0,
+      "days"
+    ],
+    "query": {
+      "campaign": "23V010000"
+    },
+    "operation": null,
+    "display": "0"
+  },
+  {
+    "name": "FieldK",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V011000"
+    },
+    "operation": null,
+    "display": "2023-02-22"
+  },
+  {
+    "name": "ApiK",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V011000"
+    },
+    "operation": null,
+    "display": "2023-02-22"
+  },
+  {
+    "name": "DaysK",
+    "file": "results/cases.json",
+    "field": [
+      "field_minus_reported_notice_days",
+      0,
+      "days"
+    ],
+    "query": {
+      "campaign": "23V011000"
+    },
+    "operation": null,
+    "display": "0"
+  },
+  {
+    "name": "FieldL",
+    "file": "results/cases.json",
+    "field": [
+      "owner_field_date"
+    ],
+    "query": {
+      "campaign": "23V012000"
+    },
+    "operation": null,
+    "display": "2023-02-27"
+  },
+  {
+    "name": "ApiL",
+    "file": "results/cases.json",
+    "field": [
+      "api_assertions",
+      0,
+      "date"
+    ],
+    "query": {
+      "campaign": "23V012000"
+    },
+    "operation": null,
+    "display": "2023-03-15"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "python": "3.10.11",
+  "reproduced_files": [
+    "cases.json",
+    "planned_references.json",
+    "summary.json",
+    "exercise.json"
+  ],
+  "unchanged_source_files": 13,
+  "native_redownload": false,
+  "scope": "Saved factual projection replay; native sources and semantic adjudication were checked separately.",
+  "checkout_head": "7c1348708215a7d3f7452b4ad2b3f743064efe98",
+  "full_history": true
+}

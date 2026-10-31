@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "finite_conditions": 190,
+  "source_bound_artists": 36,
+  "svg_coordinate_conditions": 60,
+  "asset_hashes": 9,
+  "scope": "Actual SVG bars/markers/labels and artist values matched to results. Visual inspection recorded separately; no accessibility certification."
+}
