@@ -1,0 +1,34 @@
+{
+  "study": "18",
+  "version": "event-role-audit-v2",
+  "campaigns": [
+    "23V001000",
+    "23V002000",
+    "23V003000",
+    "23V004000",
+    "23V005000",
+    "23V006000",
+    "23V007000",
+    "23V008000",
+    "23V009000",
+    "23V010000",
+    "23V011000",
+    "23V012000"
+  ],
+  "request_count": 12,
+  "source_api": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber={campaign}",
+  "source_flat_zip": "https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL_POST_2010.zip",
+  "source_dictionary": "https://static.nhtsa.gov/odi/ffdd/rcl/RCL.txt",
+  "document_list_source": "Official associated documents in campaign-ID search",
+  "target_data_retrieved": false,
+  "source_informed_not_blinded": true,
+  "scope": "Document event-role and field binding audit; original remedy-time prediction unexecuted",
+  "categories": [
+    "MATCH_INTERIM",
+    "MATCH_REMEDY_NOTICE",
+    "MATCH_GENERIC_NOTICE",
+    "CONFLICTING_DATES",
+    "UNRESOLVED"
+  ],
+  "physical_first_remedy_availability": "Never inferred from notification field or generic owner letter"
+}

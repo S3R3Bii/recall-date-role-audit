@@ -1,0 +1,5 @@
+# Factual source projection and exclusions
+
+NHTSA publishes [recall data and API documentation](https://www.nhtsa.gov/nhtsa-datasets-and-apis), the [flat-file schema](https://static.nhtsa.gov/odi/ffdd/rcl/RCL.txt), and [associated recall documents](https://www.nhtsa.gov/recalls). Use factual campaign/date/type metadata and original derived results with source attribution. Source documents and manufacturer letters are not republished; selected short evidence clauses are limited to what is needed for the date-role audit.
+
+Native ZIPs, API bodies, PDFs and full extracted document text remain private for source reconciliation. Public projection excludes names/addresses of individuals, VINs, contact details, signatures, source artwork and full manufacturer narratives. No VIN or license-plate lookup is part of the work. No NHTSA endorsement, verified remedy availability, safety advice or production deployment is implied. Code uses MIT. Formal-publication projects, including Azure optimization, remain private.
