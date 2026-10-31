@@ -1,0 +1,122 @@
+[
+  {
+    "campaign": "23V001000",
+    "flat_row_count": 15,
+    "owner_date_tokens": [
+      "20230131"
+    ],
+    "report_date_tokens": [
+      "20230105"
+    ]
+  },
+  {
+    "campaign": "23V002000",
+    "flat_row_count": 6,
+    "owner_date_tokens": [
+      "20230117"
+    ],
+    "report_date_tokens": [
+      "20230106"
+    ]
+  },
+  {
+    "campaign": "23V003000",
+    "flat_row_count": 1,
+    "owner_date_tokens": [
+      "20230216"
+    ],
+    "report_date_tokens": [
+      "20230112"
+    ]
+  },
+  {
+    "campaign": "23V004000",
+    "flat_row_count": 1,
+    "owner_date_tokens": [
+      "20230120"
+    ],
+    "report_date_tokens": [
+      "20230113"
+    ]
+  },
+  {
+    "campaign": "23V005000",
+    "flat_row_count": 40,
+    "owner_date_tokens": [
+      "20230207"
+    ],
+    "report_date_tokens": [
+      "20230113"
+    ]
+  },
+  {
+    "campaign": "23V006000",
+    "flat_row_count": 4,
+    "owner_date_tokens": [
+      "20230209"
+    ],
+    "report_date_tokens": [
+      "20230116"
+    ]
+  },
+  {
+    "campaign": "23V007000",
+    "flat_row_count": 3,
+    "owner_date_tokens": [
+      "20230310"
+    ],
+    "report_date_tokens": [
+      "20230116"
+    ]
+  },
+  {
+    "campaign": "23V008000",
+    "flat_row_count": 44,
+    "owner_date_tokens": [
+      "20230317"
+    ],
+    "report_date_tokens": [
+      "20230113"
+    ]
+  },
+  {
+    "campaign": "23V009000",
+    "flat_row_count": 16,
+    "owner_date_tokens": [
+      "20230201"
+    ],
+    "report_date_tokens": [
+      "20230113"
+    ]
+  },
+  {
+    "campaign": "23V010000",
+    "flat_row_count": 28,
+    "owner_date_tokens": [
+      "20230223"
+    ],
+    "report_date_tokens": [
+      "20230117"
+    ]
+  },
+  {
+    "campaign": "23V011000",
+    "flat_row_count": 16,
+    "owner_date_tokens": [
+      "20230222"
+    ],
+    "report_date_tokens": [
+      "20230118"
+    ]
+  },
+  {
+    "campaign": "23V012000",
+    "flat_row_count": 8,
+    "owner_date_tokens": [
+      "20230227"
+    ],
+    "report_date_tokens": [
+      "20230119"
+    ]
+  }
+]

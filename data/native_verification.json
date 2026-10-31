@@ -1,0 +1,10 @@
+{
+  "status": "PASS_NATIVE_PROJECTION_ONLY",
+  "native_rows": 247021,
+  "campaigns": 12,
+  "selected_native_rows": 182,
+  "api_records": 113,
+  "conditions": 247156,
+  "source_sha256": "5d8cc101ff4c191d87234bbac807c73b92348a3a48fca9a2281436d704c99c56",
+  "scope": "Independent CSV stream, native schema, exact campaign/date projection, API body hashes and documented date-format reconciliation; no document role or remedy-availability validation yet"
+}
