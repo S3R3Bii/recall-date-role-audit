@@ -1,0 +1,13 @@
+{
+  "url": "https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL_POST_2010.zip",
+  "retrieved_utc": "2026-10-31T01:05:44.322383+00:00",
+  "archive_sha256": "5d8cc101ff4c191d87234bbac807c73b92348a3a48fca9a2281436d704c99c56",
+  "archive_bytes": 14990524,
+  "dictionary_sha256": "3438cc7e4131efa401dfe6437dbe035607e092c129155dfb411d459d58802203",
+  "member": "FLAT_RCL_POST_2010.txt",
+  "payload_sha256": "3ea6eb612f13af3b9df1adf89560523329ca5ebb8bed00ccf41566c459b2fd5c",
+  "payload_bytes": 312675150,
+  "native_row_shapes": {
+    "29": 247021
+  }
+}

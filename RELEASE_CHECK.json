@@ -1,0 +1,24 @@
+{
+  "state": "CANDIDATE_READY",
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "source_gate": "PASS",
+  "typed_event_and_count_gate": "PASS",
+  "independent_check": "152 SQLite/calendar/exercise conditions;720 saved-source conditions;712 native PDF conditions plus manual source cells;247156 native flat/API conditions",
+  "authored_fixtures": 26,
+  "isolated_replays": [
+    "3.10.11",
+    "3.12.14"
+  ],
+  "case_accounting": {
+    "MATCH_GENERIC_NOTICE": 6,
+    "CONFLICTING_DATES": 1,
+    "UNRESOLVED": 5,
+    "MATCH_INTERIM": 0,
+    "MATCH_REMEDY_NOTICE": 0
+  },
+  "physical_first_availability_known": 0,
+  "original_prediction_scope": "UNEXECUTED",
+  "candidate_main_ci_tag_metadata": "PENDING",
+  "not_peer_reviewed": true
+}

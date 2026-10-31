@@ -1,0 +1,1643 @@
+{
+  "dossier_source_lists": [
+    {
+      "campaign": "23V001000",
+      "sha256": "fae31ca284e3c38e6687ef461f5bb1661d68df6fb1facf76bb15b3add0a9517f",
+      "documents": 14
+    },
+    {
+      "campaign": "23V002000",
+      "sha256": "52b1b2b9385c98bf5ebbb3a94756a56c28f5c26797c7d0e8f3c4d9c78951f1ee",
+      "documents": 16
+    },
+    {
+      "campaign": "23V003000",
+      "sha256": "4a3b69afe921ddec78e1fa5aa8a9a9f9778899539bd6af6d752d025b7f80c5f3",
+      "documents": 9
+    },
+    {
+      "campaign": "23V004000",
+      "sha256": "62faf5938af00c44ff6dd4361e21f1c3b606b69eb4baf0f5c8e5ef8745151580",
+      "documents": 6
+    },
+    {
+      "campaign": "23V005000",
+      "sha256": "f7497d5d001d247bfb672a4eea6d1e99e532a44387bc4150895f3745f571a511",
+      "documents": 16
+    },
+    {
+      "campaign": "23V006000",
+      "sha256": "fdf091ea53934078981dbf9773eb33cc9312bdd2c194ce3b862e81291c787b00",
+      "documents": 19
+    },
+    {
+      "campaign": "23V007000",
+      "sha256": "668adf2f5e2a7eae457de6557873778dfe26c4c9da4409246ed7d9e661a2a184",
+      "documents": 13
+    },
+    {
+      "campaign": "23V008000",
+      "sha256": "3aacab841db2ef805eb02b55da6b253dbd5e011076e0c059dada78c6c97f0bd9",
+      "documents": 21
+    },
+    {
+      "campaign": "23V009000",
+      "sha256": "4d5db0249c1b019874de057a0c628e7067255e07ef9a22ddb84a8a4b7014e6f8",
+      "documents": 15
+    },
+    {
+      "campaign": "23V010000",
+      "sha256": "65aefe942229b01644cd0b7d87b79b236630df325188d03b062f12867afe9a43",
+      "documents": 37
+    },
+    {
+      "campaign": "23V011000",
+      "sha256": "97c4090da283b1f55196b6307bcd9227f281020a2933027ada08f0ec1d7b5264",
+      "documents": 18
+    },
+    {
+      "campaign": "23V012000",
+      "sha256": "413e90b597b17eb6a257c50f8d274604252cb9b80374e85e71932ef715e8b24b",
+      "documents": 13
+    }
+  ],
+  "documents": [
+    {
+      "campaign": "23V001000",
+      "document_id": "RCMN-23V001-7392.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V001-7392.pdf",
+      "listed_type": "Volvo Car - Retailer Letter - January 2023",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCRIT-23V001-9915.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V001-9915.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCLRPT-23V001-6230.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V001-6230.PDF",
+      "listed_type": "Defect Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCAK-23V001-9518.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V001-9518.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCRIT-23V001-1580.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V001-1580.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCLRPT-23V001-8870.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V001-8870.PDF",
+      "listed_type": "Recall 573 Report - January 10, 2023",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCONL-23V001-7386.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V001-7386.pdf",
+      "listed_type": "Issued Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCONL-23V001-1730.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V001-1730.pdf",
+      "listed_type": "Issued Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCLQRT-23V001-8176.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V001-8176.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCLQRT-23V001-1872.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V001-1872.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCLQRT-23V001-8258.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V001-8258.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCLQRT-23V001-2478.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V001-2478.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCLQRT-23V001-5739.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V001-5739.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V001000",
+      "document_id": "RCLYLY-23V001-8542.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V001-8542.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCAK-23V002-5230.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V002-5230.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCRIT-23V002-6320.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V002-6320.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCMN-23V002-7566.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V002-7566.pdf",
+      "listed_type": "Manufacturer Notices(to Dealers,etc)",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCLRPT-23V002-1889.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V002-1889.PDF",
+      "listed_type": "Defect Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RMISC-23V002-5755.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RMISC-23V002-5755.pdf",
+      "listed_type": "Miscellaneous Document - Recall CA#10253-1 - Return Form - USA",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RONE-23V002-2446.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RONE-23V002-2446.pdf",
+      "listed_type": "Part 577 Owner Notification Envelope",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCONL-23V002-1384.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V002-1384.pdf",
+      "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCLQRT-23V002-1371.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V002-1371.PDF",
+      "listed_type": "Recall Quarterly Report #1, 2023-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCLQRT-23V002-0085.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V002-0085.PDF",
+      "listed_type": "Recall Quarterly Report #2, 2023-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCLQRT-23V002-4402.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V002-4402.PDF",
+      "listed_type": "Recall Quarterly Report #3, 2023-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCLQRT-23V002-6447.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V002-6447.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCLQRT-23V002-3629.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V002-3629.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCLQRT-23V002-6744.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V002-6744.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCLQRT-23V002-7944.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V002-7944.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCLQRT-23V002-4016.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V002-4016.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V002000",
+      "document_id": "RCLYLY-23V002-1760.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V002-1760.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V003000",
+      "document_id": "RCLRPT-23V003-2158.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V003-2158.PDF",
+      "listed_type": "Defect Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V003000",
+      "document_id": "RCAK-23V003-1197.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V003-1197.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V003000",
+      "document_id": "RCONL-23V003-7340.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V003-7340.pdf",
+      "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V003000",
+      "document_id": "RCLQRT-23V003-5276.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V003-5276.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V003000",
+      "document_id": "RCLQRT-23V003-8176.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V003-8176.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V003000",
+      "document_id": "RCLQRT-23V003-9326.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V003-9326.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V003000",
+      "document_id": "RCLQRT-23V003-2210.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V003-2210.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V003000",
+      "document_id": "RCLQRT-23V003-0070.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V003-0070.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V003000",
+      "document_id": "RCLYLY-23V003-0210.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V003-0210.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V004000",
+      "document_id": "RCRIT-23V004-3899.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V004-3899.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V004000",
+      "document_id": "RCLRPT-23V004-1235.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V004-1235.PDF",
+      "listed_type": "Noncompliance Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V004000",
+      "document_id": "RCAK-23V004-8788.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V004-8788.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V004000",
+      "document_id": "RCONL-23V004-5243.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V004-5243.pdf",
+      "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V004000",
+      "document_id": "RCMN-23V004-0064.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V004-0064.pdf",
+      "listed_type": "Manufacturer Notices(to Dealers,etc)",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V004000",
+      "document_id": "RCLQRT-23V004-6570.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V004-6570.PDF",
+      "listed_type": "Recall Quarterly Report #1, 2023-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLRPT-23V005-1295.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V005-1295.PDF",
+      "listed_type": "Defect Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCAK-23V005-7649.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V005-7649.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLRPT-23V005-1416.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V005-1416.PDF",
+      "listed_type": "Recall 573 Report - 1/31/23",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCRIT-23V005-2994.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V005-2994.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLRPT-23V005-6032.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V005-6032.PDF",
+      "listed_type": "Recall 573 Report - February 7, 2023",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCONL-23V005-8634.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V005-8634.pdf",
+      "listed_type": "Owner Notification Letter(Part 577) - Redacted",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLQRT-23V005-7084.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V005-7084.PDF",
+      "listed_type": "Recall Quarterly Report #2, 2023-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLQRT-23V005-9862.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V005-9862.PDF",
+      "listed_type": "Recall Quarterly Report #1, 2023-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLQRT-23V005-7613.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V005-7613.PDF",
+      "listed_type": "Recall Quarterly Report #3, 2023-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLQRT-23V005-2785.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V005-2785.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLQRT-23V005-6626.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V005-6626.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLQRT-23V005-7200.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V005-7200.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLQRT-23V005-9122.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V005-9122.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLQRT-23V005-6188.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V005-6188.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLQRT-23V005-0710.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V005-0710.pdf",
+      "listed_type": "Recall Quarterly Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V005000",
+      "document_id": "RCLYLY-23V005-7576.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V005-7576.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCLRPT-23V006-1115.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V006-1115.PDF",
+      "listed_type": "Defect Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCAK-23V006-8452.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V006-8452.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCLRPT-23V006-4800.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V006-4800.PDF",
+      "listed_type": "Recall 573 Report - January 27, 2023",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCLRPT-23V006-7268.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V006-7268.PDF",
+      "listed_type": "Recall 573 Report - January 25, 2023",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCMN-23V006-7976.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V006-7976.pdf",
+      "listed_type": "Triumph - Dealer Notice - January 2023",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCMN-23V006-7921.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V006-7921.pdf",
+      "listed_type": "Triumph - Recall Notice - January 2023",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCSB-23V006-1339.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCSB-23V006-1339.pdf",
+      "listed_type": "Safety Bulletin",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCMN-23V006-3080.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V006-3080.pdf",
+      "listed_type": "Triumph - Dealer Notice - January 2023",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCONL-23V006-7530.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V006-7530.pdf",
+      "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCMN-23V006-1351.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V006-1351.pdf",
+      "listed_type": "Triumph Motorcycles - SB605 Parts Available - February 2023",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCRN-23V006-8291.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRN-23V006-8291.pdf",
+      "listed_type": "ISSUED Renotification Notice",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCLQRT-23V006-7148.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V006-7148.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCRN-23V006-7410.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRN-23V006-7410.pdf",
+      "listed_type": "Generic Polk Campaign - US Final Owner Letter",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCLQRT-23V006-8082.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V006-8082.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCLQRT-23V006-6471.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V006-6471.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCLQRT-23V006-1262.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V006-1262.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCRN-23V006-4962.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRN-23V006-4962.pdf",
+      "listed_type": "ISSUED Renotification Notice - Email Renotification Owner Letter",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCLQRT-23V006-0705.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V006-0705.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V006000",
+      "document_id": "RCLYLY-23V006-6529.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V006-6529.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCLRPT-23V007-8384.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V007-8384.PDF",
+      "listed_type": "Noncompliance Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCAK-23V007-4338.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V007-4338.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCSB-23V007-0290.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCSB-23V007-0290.pdf",
+      "listed_type": "Safety Bulletin",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCONL-23V007-7885.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V007-7885.pdf",
+      "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCONL-23V007-2997.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V007-2997.pdf",
+      "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCLQRT-23V007-7003.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V007-7003.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCLQRT-23V007-6150.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V007-6150.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCLQRT-23V007-1703.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V007-1703.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCLQRT-23V007-8807.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V007-8807.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCLQRT-23V007-1593.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V007-1593.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCLQRT-23V007-7678.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V007-7678.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCLQRT-23V007-9195.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V007-9195.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V007000",
+      "document_id": "RCLYLY-23V007-4725.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V007-4725.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLRPT-23V008-7288.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V008-7288.PDF",
+      "listed_type": "Noncompliance Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCAK-23V008-7199.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V008-7199.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLRPT-23V008-5127.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V008-5127.PDF",
+      "listed_type": "Recall 573 Report - February 28, 2023",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLRPT-23V008-7019.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V008-7019.PDF",
+      "listed_type": "Recall 573 Report - February 28, 2023",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCSB-23V008-9082.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCSB-23V008-9082.pdf",
+      "listed_type": "Safety Bulletin",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCRIT-23V008-2840.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V008-2840.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RONE-23V008-7337.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RONE-23V008-7337.pdf",
+      "listed_type": "Part 577 Owner Notification Envelope",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RONE-23V008-8523.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RONE-23V008-8523.pdf",
+      "listed_type": "Part 577 Owner Notification Envelope",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCONL-23V008-9241.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V008-9241.pdf",
+      "listed_type": "Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLQRT-23V008-4731.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V008-4731.PDF",
+      "listed_type": "Recall Quarterly Report #1, 2023-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLRPT-23V008-6503.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V008-6503.PDF",
+      "listed_type": "Recall 573 Report - 05/01/2023",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLQRT-23V008-3809.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V008-3809.PDF",
+      "listed_type": "Recall Quarterly Report #2, 2023-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLQRT-23V008-1960.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V008-1960.PDF",
+      "listed_type": "Recall Quarterly Report #3, 2023-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLQRT-23V008-7368.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V008-7368.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLQRT-23V008-6340.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V008-6340.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLQRT-23V008-7861.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V008-7861.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLQRT-23V008-3300.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V008-3300.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLQRT-23V008-5497.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V008-5497.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCSB-23V008-5646.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCSB-23V008-5646.pdf",
+      "listed_type": "Service Bulletin",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLQRT-23V008-9603.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V008-9603.pdf",
+      "listed_type": "Recall Quarterly Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V008000",
+      "document_id": "RCLYLY-23V008-0059.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V008-0059.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCLRPT-23V009-5168.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V009-5168.PDF",
+      "listed_type": "Defect Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCAK-23V009-5551.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V009-5551.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCMN-23V009-7791.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V009-7791.pdf",
+      "listed_type": "Manufacturer Notices(to Dealers,etc) - 27 January, 2023",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RONE-23V009-1227.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RONE-23V009-1227.pdf",
+      "listed_type": "Part 577 Owner Notification Envelope",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCONL-23V009-0058.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V009-0058.pdf",
+      "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCLQRT-23V009-4140.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V009-4140.PDF",
+      "listed_type": "Recall Quarterly Report #1, 2023-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RMISC-23V009-9232.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RMISC-23V009-9232.pdf",
+      "listed_type": "11 April, 2023\n573 Report on Defect and Recall Campaign # 23V009",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCLQRT-23V009-3466.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V009-3466.PDF",
+      "listed_type": "Recall Quarterly Report #2, 2023-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCLQRT-23V009-2250.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V009-2250.PDF",
+      "listed_type": "Recall Quarterly Report #3, 2023-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCLQRT-23V009-1850.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V009-1850.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCLQRT-23V009-4151.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V009-4151.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCLQRT-23V009-4225.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V009-4225.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCLQRT-23V009-0169.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V009-0169.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCLQRT-23V009-1698.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V009-1698.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V009000",
+      "document_id": "RCLYLY-23V009-5276.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V009-5276.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCAK-23V010-2636.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V010-2636.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCMN-23V010-2715.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V010-2715.pdf",
+      "listed_type": "Manufacturer Notices(to Dealers,etc) - Initial NSRAC",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLRPT-23V010-9230.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V010-9230.PDF",
+      "listed_type": "Defect Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCMN-23V010-0359.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V010-0359.pdf",
+      "listed_type": "Manufacturer Notices(to Dealers,etc) - NSRAC: Stop Sale",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRIT-23V010-1977.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V010-1977.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLRPT-23V010-6204.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V010-6204.PDF",
+      "listed_type": "Recall 573 Report - 2/23/23",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCONL-23V010-5996.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V010-5996.pdf",
+      "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RIONL-23V010-8590.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RIONL-23V010-8590.pdf",
+      "listed_type": "ISSUED Interim Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRIT-23V010-1096.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V010-1096.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLRPT-23V010-3048.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V010-3048.PDF",
+      "listed_type": "Recall 573 Report - 3/14/23",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRIT-23V010-3289.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V010-3289.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLQRT-23V010-7235.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V010-7235.PDF",
+      "listed_type": "Recall Quarterly Report #1, 2023-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLRPT-23V010-4380.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V010-4380.PDF",
+      "listed_type": "Recall 573 Report - 5/18/23",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRIT-23V010-6370.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V010-6370.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRIT-23V010-1255.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V010-1255.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCONL-23V010-0488.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V010-0488.pdf",
+      "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLQRT-23V010-5144.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V010-5144.PDF",
+      "listed_type": "Recall Quarterly Report #2, 2023-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRIT-23V010-5299.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V010-5299.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLRPT-23V010-4210.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V010-4210.PDF",
+      "listed_type": "Recall 573 Report 9/26/23",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RMISC-23V010-3347.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RMISC-23V010-3347.pdf",
+      "listed_type": "Miscellaneous Document - Chrysler Pacifica Low Voltage Wiring / Transaxle Part Numbers by Model and Model Year",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRIT-23V010-6950.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V010-6950.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRIT-23V010-6216.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V010-6216.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLQRT-23V010-7221.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V010-7221.PDF",
+      "listed_type": "Recall Quarterly Report #3, 2023-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRN-23V010-9905.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRN-23V010-9905.pdf",
+      "listed_type": "ISSUED Renotification Notice",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLQRT-23V010-9225.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V010-9225.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLQRT-23V010-1749.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V010-1749.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLRPT-23V010-7298.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V010-7298.PDF",
+      "listed_type": "Recall 573 Report - May 16, 2024",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRIT-23V010-0728.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V010-0728.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLQRT-23V010-2142.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V010-2142.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLQRT-23V010-3468.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V010-3468.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLQRT-23V010-6143.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V010-6143.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCRIT-23V010-2272.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V010-2272.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLRPT-23V010-8466.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V010-8466.PDF",
+      "listed_type": "Recall 573 Report - January 30, 2025",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCMN-23V010-8297.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V010-8297.pdf",
+      "listed_type": "Manufacturer Notices(to Dealers,etc)",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLQRT-23V010-3135.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V010-3135.PDF",
+      "listed_type": "Recall Quarterly Report #9, 2025-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLQRT-23V010-3416.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V010-3416.pdf",
+      "listed_type": "Recall Quarterly Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V010000",
+      "document_id": "RCLYLY-23V010-2201.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V010-2201.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCRIT-23V011-2024.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V011-2024.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCMN-23V011-4991.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V011-4991.pdf",
+      "listed_type": "Manufacturer Notices(to Dealers,etc) - Delivery Stop",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RMISC-23V011-6214.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RMISC-23V011-6214.pdf",
+      "listed_type": "Miscellaneous Document - Chronology",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLRPT-23V011-3383.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V011-3383.PDF",
+      "listed_type": "Defect Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCAK-23V011-6351.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V011-6351.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCMN-23V011-5187.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V011-5187.pdf",
+      "listed_type": "Manufacturer Notices(to Dealers,etc) - Update to Stop Sale STOP230005\nRecall: Reprogram R 1250 GS (K50), R 1250 GS Adventure (K51) and R 1250 RTP (K52) models has been published and replaces Delivery Stop STOP230005",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLRPT-23V011-8434.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V011-8434.PDF",
+      "listed_type": "Recall 573 Report - 2/16/23",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLRPT-23V011-2198.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V011-2198.PDF",
+      "listed_type": "Recall 573 Report - 2/16/23",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCONL-23V011-0283.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V011-0283.pdf",
+      "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLQRT-23V011-2742.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V011-2742.PDF",
+      "listed_type": "Recall Quarterly Report #1, 2023-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLQRT-23V011-7720.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V011-7720.PDF",
+      "listed_type": "Recall Quarterly Report #2, 2023-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLQRT-23V011-8421.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V011-8421.PDF",
+      "listed_type": "Recall Quarterly Report #3, 2023-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLQRT-23V011-1403.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V011-1403.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLQRT-23V011-3730.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V011-3730.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLQRT-23V011-8023.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V011-8023.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLQRT-23V011-3905.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V011-3905.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLQRT-23V011-0457.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V011-0457.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V011000",
+      "document_id": "RCLYLY-23V011-5475.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V011-5475.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCAK-23V012-1552.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCAK-23V012-1552.pdf",
+      "listed_type": "Recall Acknowledgement",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCLRPT-23V012-8186.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V012-8186.PDF",
+      "listed_type": "Defect Notice 573 Report",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCRIT-23V012-6413.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V012-6413.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCRIT-23V012-1025.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V012-1025.pdf",
+      "listed_type": "Remedy Instructions and TSB",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCMN-23V012-4594.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCMN-23V012-4594.pdf",
+      "listed_type": "Volvo Car - Retailer Letter - January 2023",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCLRPT-23V012-6479.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V012-6479.PDF",
+      "listed_type": "Recall 573 Report - February 10, 2023",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCONL-23V012-2942.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V012-2942.pdf",
+      "listed_type": "Issued Owner Notification Letter(Part 577)",
+      "selected": true,
+      "reason": "fixed Part573/acknowledgement/owner-notice scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCLQRT-23V012-2190.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V012-2190.PDF",
+      "listed_type": "Recall Quarterly Report #4, 2023-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCLQRT-23V012-5032.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V012-5032.PDF",
+      "listed_type": "Recall Quarterly Report #5, 2024-1",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCLQRT-23V012-9292.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V012-9292.PDF",
+      "listed_type": "Recall Quarterly Report #6, 2024-2",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCLQRT-23V012-5398.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V012-5398.PDF",
+      "listed_type": "Recall Quarterly Report #7, 2024-3",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCLQRT-23V012-5108.PDF",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLQRT-23V012-5108.PDF",
+      "listed_type": "Recall Quarterly Report #8, 2024-4",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    },
+    {
+      "campaign": "23V012000",
+      "document_id": "RCLYLY-23V012-4738.pdf",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCLYLY-23V012-4738.pdf",
+      "listed_type": "Recall Annual Report",
+      "selected": false,
+      "reason": "dealer instruction/notice or performance report outside fixed scope"
+    }
+  ],
+  "selection_by_metadata_before_pdf_contents": true
+}

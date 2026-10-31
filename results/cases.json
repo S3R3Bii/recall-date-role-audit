@@ -1,0 +1,313 @@
+[
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters are expected to be mailed March 1, 2023.",
+        "date": "2023-03-01",
+        "role": "GENERIC_NOTICE",
+        "state": "PLANNED"
+      }
+    ],
+    "api_records": 12,
+    "campaign": "23V001000",
+    "category": "UNRESOLVED",
+    "document_count": 5,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": null,
+    "flat_rows": 15,
+    "owner_field_date": "2023-01-31",
+    "owner_field_tokens": [
+      "20230131"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters were mailed January 17, 2023.",
+        "date": "2023-01-17",
+        "role": "GENERIC_NOTICE",
+        "state": "REPORTED"
+      }
+    ],
+    "api_records": 3,
+    "campaign": "23V002000",
+    "category": "MATCH_GENERIC_NOTICE",
+    "document_count": 3,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": [
+      {
+        "days": 0,
+        "source_date": "2023-01-17"
+      }
+    ],
+    "flat_rows": 6,
+    "owner_field_date": "2023-01-17",
+    "owner_field_tokens": [
+      "20230117"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters are expected to be mailed March 10, 2023.",
+        "date": "2023-03-10",
+        "role": "GENERIC_NOTICE",
+        "state": "PLANNED"
+      }
+    ],
+    "api_records": 1,
+    "campaign": "23V003000",
+    "category": "UNRESOLVED",
+    "document_count": 3,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": null,
+    "flat_rows": 1,
+    "owner_field_date": "2023-02-16",
+    "owner_field_tokens": [
+      "20230216"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters were mailed January 20, 2023.",
+        "date": "2023-01-20",
+        "role": "GENERIC_NOTICE",
+        "state": "REPORTED"
+      }
+    ],
+    "api_records": 1,
+    "campaign": "23V004000",
+    "category": "MATCH_GENERIC_NOTICE",
+    "document_count": 3,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": [
+      {
+        "days": 0,
+        "source_date": "2023-01-20"
+      }
+    ],
+    "flat_rows": 1,
+    "owner_field_date": "2023-01-20",
+    "owner_field_tokens": [
+      "20230120"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters were mailed March 2, 2023.",
+        "date": "2023-03-02",
+        "role": "GENERIC_NOTICE",
+        "state": "REPORTED"
+      }
+    ],
+    "api_records": 40,
+    "campaign": "23V005000",
+    "category": "CONFLICTING_DATES",
+    "document_count": 5,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": [
+      {
+        "days": -23,
+        "source_date": "2023-03-02"
+      }
+    ],
+    "flat_rows": 40,
+    "owner_field_date": "2023-02-07",
+    "owner_field_tokens": [
+      "20230207"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters are expected to be mailed February 1, 2023.",
+        "date": "2023-02-01",
+        "role": "GENERIC_NOTICE",
+        "state": "PLANNED"
+      }
+    ],
+    "api_records": 4,
+    "campaign": "23V006000",
+    "category": "UNRESOLVED",
+    "document_count": 7,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": null,
+    "flat_rows": 4,
+    "owner_field_date": "2023-02-09",
+    "owner_field_tokens": [
+      "20230209"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters are expected to be mailed March 17, 2023.",
+        "date": "2023-03-17",
+        "role": "GENERIC_NOTICE",
+        "state": "PLANNED"
+      }
+    ],
+    "api_records": 3,
+    "campaign": "23V007000",
+    "category": "UNRESOLVED",
+    "document_count": 4,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": null,
+    "flat_rows": 3,
+    "owner_field_date": "2023-03-10",
+    "owner_field_tokens": [
+      "20230310"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters were mailed March 17, 2023.",
+        "date": "2023-03-17",
+        "role": "GENERIC_NOTICE",
+        "state": "REPORTED"
+      }
+    ],
+    "api_records": 11,
+    "campaign": "23V008000",
+    "category": "MATCH_GENERIC_NOTICE",
+    "document_count": 6,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": [
+      {
+        "days": 0,
+        "source_date": "2023-03-17"
+      }
+    ],
+    "flat_rows": 44,
+    "owner_field_date": "2023-03-17",
+    "owner_field_tokens": [
+      "20230317"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters were mailed February 1, 2023.",
+        "date": "2023-02-01",
+        "role": "GENERIC_NOTICE",
+        "state": "REPORTED"
+      }
+    ],
+    "api_records": 8,
+    "campaign": "23V009000",
+    "category": "MATCH_GENERIC_NOTICE",
+    "document_count": 4,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": [
+      {
+        "days": 0,
+        "source_date": "2023-02-01"
+      }
+    ],
+    "flat_rows": 16,
+    "owner_field_date": "2023-02-01",
+    "owner_field_tokens": [
+      "20230201"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "FCA began notifying owners on February 23, 2023.",
+        "date": "2023-02-23",
+        "role": "GENERIC_NOTICE",
+        "state": "REPORTED"
+      }
+    ],
+    "api_records": 7,
+    "campaign": "23V010000",
+    "category": "MATCH_GENERIC_NOTICE",
+    "document_count": 11,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": [
+      {
+        "days": 0,
+        "source_date": "2023-02-23"
+      }
+    ],
+    "flat_rows": 28,
+    "owner_field_date": "2023-02-23",
+    "owner_field_tokens": [
+      "20230223"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters were mailed February 22, 2023.",
+        "date": "2023-02-22",
+        "role": "GENERIC_NOTICE",
+        "state": "REPORTED"
+      }
+    ],
+    "api_records": 15,
+    "campaign": "23V011000",
+    "category": "MATCH_GENERIC_NOTICE",
+    "document_count": 5,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": [
+      {
+        "days": 0,
+        "source_date": "2023-02-22"
+      }
+    ],
+    "flat_rows": 16,
+    "owner_field_date": "2023-02-22",
+    "owner_field_tokens": [
+      "20230222"
+    ],
+    "physical_first_availability_date": null
+  },
+  {
+    "api_assertions": [
+      {
+        "clause": "Owner notification letters are expected to be mailed March 15, 2023.",
+        "date": "2023-03-15",
+        "role": "GENERIC_NOTICE",
+        "state": "PLANNED"
+      }
+    ],
+    "api_records": 8,
+    "campaign": "23V012000",
+    "category": "UNRESOLVED",
+    "document_count": 4,
+    "exact_interim_binding": false,
+    "exact_remedy_binding": false,
+    "field_minus_reported_notice_days": null,
+    "flat_rows": 8,
+    "owner_field_date": "2023-02-27",
+    "owner_field_tokens": [
+      "20230227"
+    ],
+    "physical_first_availability_date": null
+  }
+]

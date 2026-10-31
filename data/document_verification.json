@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "finite_conditions": 712,
+  "manual_scope": "Listed cells were checked in the already rendered native source pages; text-reader failures are retained, not counted as automated passes.",
+  "adjudication_sha256": "250e1cf5336838e2720680f183f92984fbdc1ee6d585a647f1fced012816bcad",
+  "api_assertions_sha256": "37756cfe910be5ba85a55bfe6878195299671285f0a2c4140bf8d4e5941f3b1e",
+  "manual_native_page_cells": 9,
+  "rendered_source_review": {
+    "report_date_pairs": 29,
+    "owner_or_misc_pages": 19,
+    "acknowledgement_pages": 12,
+    "scope": "Relevant native date/role pages; not every page visually inspected."
+  },
+  "earlier_failure": {
+    "status": "FAIL retained privately",
+    "defect": "One narrative date inherited a structured-row page; corrected from native text before comparisons."
+  }
+}

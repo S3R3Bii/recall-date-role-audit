@@ -1,0 +1,245 @@
+{
+  "event_role_counts": {
+    "artists": [
+      {
+        "id": "count-MATCH_GENERIC_NOTICE",
+        "kind": "bar",
+        "value": 6.0
+      },
+      {
+        "id": "count-CONFLICTING_DATES",
+        "kind": "bar",
+        "value": 1.0
+      },
+      {
+        "id": "count-UNRESOLVED",
+        "kind": "bar",
+        "value": 5.0
+      },
+      {
+        "id": "count-MATCH_INTERIM",
+        "kind": "bar",
+        "value": 0.0
+      },
+      {
+        "id": "count-MATCH_REMEDY_NOTICE",
+        "kind": "bar",
+        "value": 0.0
+      }
+    ],
+    "sha256": {
+      "pdf": "4050473137c64cf137579ba38c7d7c779c01d2f0a541ecb2c3c4dea2605049df",
+      "png": "863d97754fbfb3857e08f6db50a8ae87c757841091b5f9ede17a53cc034d13d4",
+      "svg": "140cbe3da5c737789ab7ec080c3dcbb47f970919459e7cde11f94cc0a81c7c99"
+    }
+  },
+  "field_and_api_dates": {
+    "artists": [
+      {
+        "date": "2023-01-31",
+        "id": "field-23V001000",
+        "kind": "point",
+        "row": 1
+      },
+      {
+        "date": "2023-03-01",
+        "id": "api-23V001000",
+        "kind": "point",
+        "row": 1,
+        "state": "PLANNED"
+      },
+      {
+        "date": "2023-01-17",
+        "id": "field-23V002000",
+        "kind": "point",
+        "row": 2
+      },
+      {
+        "date": "2023-01-17",
+        "id": "api-23V002000",
+        "kind": "point",
+        "row": 2,
+        "state": "REPORTED"
+      },
+      {
+        "date": "2023-02-16",
+        "id": "field-23V003000",
+        "kind": "point",
+        "row": 3
+      },
+      {
+        "date": "2023-03-10",
+        "id": "api-23V003000",
+        "kind": "point",
+        "row": 3,
+        "state": "PLANNED"
+      },
+      {
+        "date": "2023-01-20",
+        "id": "field-23V004000",
+        "kind": "point",
+        "row": 4
+      },
+      {
+        "date": "2023-01-20",
+        "id": "api-23V004000",
+        "kind": "point",
+        "row": 4,
+        "state": "REPORTED"
+      },
+      {
+        "date": "2023-02-07",
+        "id": "field-23V005000",
+        "kind": "point",
+        "row": 5
+      },
+      {
+        "date": "2023-03-02",
+        "id": "api-23V005000",
+        "kind": "point",
+        "row": 5,
+        "state": "REPORTED"
+      },
+      {
+        "date": "2023-02-09",
+        "id": "field-23V006000",
+        "kind": "point",
+        "row": 6
+      },
+      {
+        "date": "2023-02-01",
+        "id": "api-23V006000",
+        "kind": "point",
+        "row": 6,
+        "state": "PLANNED"
+      },
+      {
+        "date": "2023-03-10",
+        "id": "field-23V007000",
+        "kind": "point",
+        "row": 7
+      },
+      {
+        "date": "2023-03-17",
+        "id": "api-23V007000",
+        "kind": "point",
+        "row": 7,
+        "state": "PLANNED"
+      },
+      {
+        "date": "2023-03-17",
+        "id": "field-23V008000",
+        "kind": "point",
+        "row": 8
+      },
+      {
+        "date": "2023-03-17",
+        "id": "api-23V008000",
+        "kind": "point",
+        "row": 8,
+        "state": "REPORTED"
+      },
+      {
+        "date": "2023-02-01",
+        "id": "field-23V009000",
+        "kind": "point",
+        "row": 9
+      },
+      {
+        "date": "2023-02-01",
+        "id": "api-23V009000",
+        "kind": "point",
+        "row": 9,
+        "state": "REPORTED"
+      },
+      {
+        "date": "2023-02-23",
+        "id": "field-23V010000",
+        "kind": "point",
+        "row": 10
+      },
+      {
+        "date": "2023-02-23",
+        "id": "api-23V010000",
+        "kind": "point",
+        "row": 10,
+        "state": "REPORTED"
+      },
+      {
+        "date": "2023-02-22",
+        "id": "field-23V011000",
+        "kind": "point",
+        "row": 11
+      },
+      {
+        "date": "2023-02-22",
+        "id": "api-23V011000",
+        "kind": "point",
+        "row": 11,
+        "state": "REPORTED"
+      },
+      {
+        "date": "2023-02-27",
+        "id": "field-23V012000",
+        "kind": "point",
+        "row": 12
+      },
+      {
+        "date": "2023-03-15",
+        "id": "api-23V012000",
+        "kind": "point",
+        "row": 12,
+        "state": "PLANNED"
+      }
+    ],
+    "sha256": {
+      "pdf": "7bc9485219409340ef038642bf0cbfb25896ae1868b54fd0dd97be3b861f4bb2",
+      "png": "02a41a450900b9725c2c51b8688b845e0d6aedf47d1beae4c45e029c60244176",
+      "svg": "c78ffb37fc69cdce6005842edb3e6d3adb4c47c8632e366eae0d01dbce26e686"
+    }
+  },
+  "reported_date_differences": {
+    "artists": [
+      {
+        "id": "difference-23V002000",
+        "kind": "bar",
+        "value": 0.0
+      },
+      {
+        "id": "difference-23V004000",
+        "kind": "bar",
+        "value": 0.0
+      },
+      {
+        "id": "difference-23V005000",
+        "kind": "bar",
+        "value": -23.0
+      },
+      {
+        "id": "difference-23V008000",
+        "kind": "bar",
+        "value": 0.0
+      },
+      {
+        "id": "difference-23V009000",
+        "kind": "bar",
+        "value": 0.0
+      },
+      {
+        "id": "difference-23V010000",
+        "kind": "bar",
+        "value": 0.0
+      },
+      {
+        "id": "difference-23V011000",
+        "kind": "bar",
+        "value": 0.0
+      }
+    ],
+    "sha256": {
+      "pdf": "7f67c335166894e6f0e7fa499a758a5bb2951964de68320742668994482c0782",
+      "png": "ec6037f5ad6b229e4a41c76a31da99e8b57c4b80b776ee30e32d2e56579c9e38",
+      "svg": "2a7d930fd6593e40448de4c5770c5e7e3175019297f700b3addf43b1141628ae"
+    }
+  }
+}

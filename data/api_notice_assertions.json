@@ -1,0 +1,194 @@
+[
+  {
+    "campaign": "23V001000",
+    "source_sha256": "2d591c729c71ad41926f6d7a4f82ec84172ffb639d893c05af0f3e760999d26b",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V001000",
+    "native_records": 12,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-03-01",
+        "state": "PLANNED",
+        "clause": "Owner notification letters are expected to be mailed March 1, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V002000",
+    "source_sha256": "5386acf729922656df9d152b640cc1a069af4e223c0280355dc21770469c1ad2",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V002000",
+    "native_records": 3,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-01-17",
+        "state": "REPORTED",
+        "clause": "Owner notification letters were mailed January 17, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V003000",
+    "source_sha256": "aaf5f7f429e0cb0316895f0ee0df893682093ead2f5fe6ac87df0a41b8d302e0",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V003000",
+    "native_records": 1,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-03-10",
+        "state": "PLANNED",
+        "clause": "Owner notification letters are expected to be mailed March 10, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V004000",
+    "source_sha256": "2077301aa22bc97cd85d75fbfe2175732949e4c86dc01f9a2d6c2b13be9b4733",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V004000",
+    "native_records": 1,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-01-20",
+        "state": "REPORTED",
+        "clause": "Owner notification letters were mailed January 20, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V005000",
+    "source_sha256": "b6659d9569016bc92a6a2ac4ade08e86513b84aa140a300ebc8c7bc0313ea0c5",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V005000",
+    "native_records": 40,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-03-02",
+        "state": "REPORTED",
+        "clause": "Owner notification letters were mailed March 2, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V006000",
+    "source_sha256": "f14b76781f78deb95a9eba7381336fe7978504ba323db05bb6fc3c946aedddd3",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V006000",
+    "native_records": 4,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-02-01",
+        "state": "PLANNED",
+        "clause": "Owner notification letters are expected to be mailed February 1, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V007000",
+    "source_sha256": "c21493067d99bc7597143e986bd5c41b941c97f2fc8dd13cb371ce2f88331214",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V007000",
+    "native_records": 3,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-03-17",
+        "state": "PLANNED",
+        "clause": "Owner notification letters are expected to be mailed March 17, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V008000",
+    "source_sha256": "5f58f6d64223d832175166696657261a9d24adf0ba041ce9d80584cb999d83cb",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V008000",
+    "native_records": 11,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-03-17",
+        "state": "REPORTED",
+        "clause": "Owner notification letters were mailed March 17, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V009000",
+    "source_sha256": "192ba21ee8f673c1084cf0e69cc1753baef40e5b98eae3c6d1fea0de627a4285",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V009000",
+    "native_records": 8,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-02-01",
+        "state": "REPORTED",
+        "clause": "Owner notification letters were mailed February 1, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V010000",
+    "source_sha256": "0c0a6a000502bace6087c578ada21af9b4c4b83493fa6e66fb31e59830c42cd7",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V010000",
+    "native_records": 7,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-02-23",
+        "state": "REPORTED",
+        "clause": "FCA began notifying owners on February 23, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V011000",
+    "source_sha256": "f70f6032688c61d2f7c95e523be9d2bec54070d323b631b02e798a8076573a70",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V011000",
+    "native_records": 15,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-02-22",
+        "state": "REPORTED",
+        "clause": "Owner notification letters were mailed February 22, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  },
+  {
+    "campaign": "23V012000",
+    "source_sha256": "c7a06b9de4e5f1354ecd6a7ccbe35866996d79a9ded1b53e66f57a23e0956631",
+    "source_url": "https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=23V012000",
+    "native_records": 8,
+    "distinct_remedy_texts": 1,
+    "assertions": [
+      {
+        "role": "GENERIC_NOTICE",
+        "date": "2023-03-15",
+        "state": "PLANNED",
+        "clause": "Owner notification letters are expected to be mailed March 15, 2023."
+      }
+    ],
+    "qualification": "Current source assertion; planned is not actual. No independently verified delivery, first availability or immutable historical vintage."
+  }
+]

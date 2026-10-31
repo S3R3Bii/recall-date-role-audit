@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "CODEBOOK.md": "83e016c501cd6ef2000f93b0d4d06500d3ed125fee8d26d0b1e702bd398275e9",
+    "DATA_RIGHTS.md": "f966e24563e18b5f76446f61e83aa74758a7c41ddfacda3cdce3433fdb3472da",
+    "PROTOCOL.md": "53e0925799233fc0e39b0a182258d0c099b56a5c6310bd6a8a5d9c39d54d7602",
+    "data/api_notice_assertions.json": "37756cfe910be5ba85a55bfe6878195299671285f0a2c4140bf8d4e5941f3b1e",
+    "data/api_projection.json": "c456a0c95cfad5e03304a8b8980bf181bc6fa932d505e013e96d5a911d902155",
+    "data/document_adjudication.json": "250e1cf5336838e2720680f183f92984fbdc1ee6d585a647f1fced012816bcad",
+    "data/document_eligibility.json": "9da9d694c558905e221915c6dffe5ad4b61e8387e847ed0f68eed2ff5eb6fb44",
+    "data/document_extraction.json": "53e40b162812edf5014043bf9e40d410e3ca21e23e8a3628c137e265feb99fa7",
+    "data/document_manifest.json": "328db91879b50d56c20b1ed6c18f7f1b75d37f4e391cd52279b3146c25bdd4fc",
+    "data/document_plan.json": "14060dbeb5ec94ab0af162d10536bbcd95d529724c34dc69d3fb1fff8a6300bd",
+    "data/document_verification.json": "1bac37e06ac3f938681965a598e18766704ff6cc63ec52445cd6f42c4d38c9a2",
+    "data/exercise_inputs.json": "089a714f6a5489dc397f21afafd4b0abc02ed48ecd347c2da5c6914a34387d77",
+    "data/flat_manifest.json": "b605d0c4e40690a69cc646163ee8fd9a67e90992c48ae544a7de379af98e868a",
+    "data/flat_projection.json": "d54d77784cd93133220ed539a94a774429d9f93603b67d6ead518f71eb0319c7",
+    "data/native_verification.json": "2fa3c300854018320b3f0831605f263891e69059e17df479bce28727c24c954d",
+    "data/source_plan.json": "afa30fc607fefe904e10d110cba962bcf0762d2dbd92f7527733ea73223072b8",
+    "requirements.txt": "cee1c44fccc645667c739a02cc1cda60f936b0490b96ee6307d4df05c87f6ab4",
+    "src/analyze.py": "be5f6977fb90069f338ea88a2f6b2e0b94ed5186f020b83c211d6ca259c0fccd",
+    "src/check_analysis.py": "2287d04f720a84ffbc22f5b67e3f382ee70f8b0a94411201d9753ef0ac87faac",
+    "src/check_source.py": "b5a94adefb1365cbd95e88c50e0e367fc162d679d6704702389d07129f902a35",
+    "src/exercise.py": "7e49a1f20088ccb7b77f5e82f3cb564b5ff9892da84d3fa6e5d792c87ad859d3",
+    "src/freeze.py": "79ff92d2275b2eb616a0f330045b85df52e23f4228e0a4f32e6115056b153c8a",
+    "src/guard.py": "ad6a2f15f5cfeedf7b32e91e668e79313e9220247c0c03b099a3d44e69e408d1",
+    "src/replay.py": "1d8a5070ce0575c8b85f51c3e21ff760cf436409d6dc09cbafc2889c1a12b6fe",
+    "tests/test_guard.py": "2acab37ed5fd08275cfc16f41164e9c89269c9030bd61f3d9aaefbdd693a1af7"
+  },
+  "qualification": "Source-informed; dates already visible during source review. Committed before first comparison command, not blinded.",
+  "source_checkpoint": "0436d24367f5b6a2cccaf9c4dec127d15b9a1c39"
+}

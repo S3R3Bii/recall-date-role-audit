@@ -1,0 +1,393 @@
+{
+  "stage": "Metadata-only correction before semantic PDF content review or comparisons",
+  "original_capture_preserved": true,
+  "native_captured": 64,
+  "envelope_templates_excluded": 4,
+  "event_documents": 60,
+  "documents": [
+    {
+      "document_id": "RCLRPT-23V001-6230.PDF",
+      "campaign": "23V001000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V001-9518.pdf",
+      "campaign": "23V001000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V001-8870.PDF",
+      "campaign": "23V001000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V001-7386.pdf",
+      "campaign": "23V001000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V001-1730.pdf",
+      "campaign": "23V001000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V002-5230.pdf",
+      "campaign": "23V002000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V002-1889.PDF",
+      "campaign": "23V002000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RONE-23V002-2446.pdf",
+      "campaign": "23V002000",
+      "eligible": false,
+      "reason": "Envelope template is not an event notice"
+    },
+    {
+      "document_id": "RCONL-23V002-1384.pdf",
+      "campaign": "23V002000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V003-2158.PDF",
+      "campaign": "23V003000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V003-1197.pdf",
+      "campaign": "23V003000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V003-7340.pdf",
+      "campaign": "23V003000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V004-1235.PDF",
+      "campaign": "23V004000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V004-8788.pdf",
+      "campaign": "23V004000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V004-5243.pdf",
+      "campaign": "23V004000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V005-1295.PDF",
+      "campaign": "23V005000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V005-7649.pdf",
+      "campaign": "23V005000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V005-1416.PDF",
+      "campaign": "23V005000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V005-6032.PDF",
+      "campaign": "23V005000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V005-8634.pdf",
+      "campaign": "23V005000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V006-1115.PDF",
+      "campaign": "23V006000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V006-8452.pdf",
+      "campaign": "23V006000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V006-4800.PDF",
+      "campaign": "23V006000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V006-7268.PDF",
+      "campaign": "23V006000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V006-7530.pdf",
+      "campaign": "23V006000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCRN-23V006-7410.pdf",
+      "campaign": "23V006000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCRN-23V006-4962.pdf",
+      "campaign": "23V006000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V007-8384.PDF",
+      "campaign": "23V007000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V007-4338.pdf",
+      "campaign": "23V007000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V007-7885.pdf",
+      "campaign": "23V007000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V007-2997.pdf",
+      "campaign": "23V007000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V008-7288.PDF",
+      "campaign": "23V008000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V008-7199.pdf",
+      "campaign": "23V008000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V008-5127.PDF",
+      "campaign": "23V008000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V008-7019.PDF",
+      "campaign": "23V008000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RONE-23V008-7337.pdf",
+      "campaign": "23V008000",
+      "eligible": false,
+      "reason": "Envelope template is not an event notice"
+    },
+    {
+      "document_id": "RONE-23V008-8523.pdf",
+      "campaign": "23V008000",
+      "eligible": false,
+      "reason": "Envelope template is not an event notice"
+    },
+    {
+      "document_id": "RCONL-23V008-9241.pdf",
+      "campaign": "23V008000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V008-6503.PDF",
+      "campaign": "23V008000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V009-5168.PDF",
+      "campaign": "23V009000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V009-5551.pdf",
+      "campaign": "23V009000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RONE-23V009-1227.pdf",
+      "campaign": "23V009000",
+      "eligible": false,
+      "reason": "Envelope template is not an event notice"
+    },
+    {
+      "document_id": "RCONL-23V009-0058.pdf",
+      "campaign": "23V009000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RMISC-23V009-9232.pdf",
+      "campaign": "23V009000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V010-2636.pdf",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V010-9230.PDF",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V010-6204.PDF",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V010-5996.pdf",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RIONL-23V010-8590.pdf",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V010-3048.PDF",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V010-4380.PDF",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V010-0488.pdf",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V010-4210.PDF",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V010-7298.PDF",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V010-8466.PDF",
+      "campaign": "23V010000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V011-3383.PDF",
+      "campaign": "23V011000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V011-6351.pdf",
+      "campaign": "23V011000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V011-8434.PDF",
+      "campaign": "23V011000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V011-2198.PDF",
+      "campaign": "23V011000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V011-0283.pdf",
+      "campaign": "23V011000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCAK-23V012-1552.pdf",
+      "campaign": "23V012000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V012-8186.PDF",
+      "campaign": "23V012000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCLRPT-23V012-6479.PDF",
+      "campaign": "23V012000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    },
+    {
+      "document_id": "RCONL-23V012-2942.pdf",
+      "campaign": "23V012000",
+      "eligible": true,
+      "reason": "Prespecified Part573/acknowledgement/owner-letter evidence"
+    }
+  ]
+}
