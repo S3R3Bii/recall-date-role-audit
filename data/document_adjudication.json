@@ -1,0 +1,2462 @@
+[
+  {
+    "campaign": "23V001000",
+    "document_id": "RCLRPT-23V001-6230.PDF",
+    "source_sha256": "83b243974f16b6d6d5149bf44f16d8061a3528739ab052b1b59f310ace627e55",
+    "listed_type": "Defect Notice 573 Report",
+    "page_count": 3,
+    "printed_date": "2023-01-05",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_REMEDY_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      },
+      {
+        "page": 3,
+        "clause": "Remedy Notices"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-01",
+    "planned_owner_end": "2023-03-01",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-05"
+        ],
+        "quote": "SUBMISSION DATE : JAN 05, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-03-01",
+          "2023-03-01"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 01, 2023 - MAR 01, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V001000",
+    "document_id": "RCAK-23V001-9518.pdf",
+    "source_sha256": "f2e3cb583c367cdf11199e0758ecff42d713daa1ba732793662dcdd19e84d80e",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 2,
+    "printed_date": "2023-01-10",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 10, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed March 1, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-03-01",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V001000",
+    "document_id": "RCLRPT-23V001-8870.PDF",
+    "source_sha256": "112f24dcba408fe3a60cb65dfc6044f1267239437f51bea732b747eec3be30a5",
+    "listed_type": "Recall 573 Report - January 10, 2023",
+    "page_count": 3,
+    "printed_date": "2023-01-10",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_REMEDY_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      },
+      {
+        "page": 3,
+        "clause": "Remedy Notices"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-01",
+    "planned_owner_end": "2023-03-01",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-10"
+        ],
+        "quote": "SUBMISSION DATE : JAN 10, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-03-01",
+          "2023-03-01"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 01, 2023 - MAR 01, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V001000",
+    "document_id": "RCONL-23V001-7386.pdf",
+    "source_sha256": "a114217026abb702cc3fbe77b68cb514e0e42e15ee44dd021c15ac1f65936f5b",
+    "listed_type": "Issued Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": "2023-01-31",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 31, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Rendered date; instructions to arrange replacement. No mailing assertion or first-availability date."
+  },
+  {
+    "campaign": "23V001000",
+    "document_id": "RCONL-23V001-1730.pdf",
+    "source_sha256": "606aac42f8795c953c75c8d88081cfa0b1d046d51588daeb9745e1f4ff3bb8bc",
+    "listed_type": "Issued Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": "2023-04-07",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "April 7, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Later issued letter; its printed date is not verified mailing."
+  },
+  {
+    "campaign": "23V002000",
+    "document_id": "RCAK-23V002-5230.pdf",
+    "source_sha256": "856a37e985cf77e60f0abb303b95c74e7cddd81ab20acfb20e70d55ce2e51a80",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 2,
+    "printed_date": "2023-01-10",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 10, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed January 25, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-01-25",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V002000",
+    "document_id": "RCLRPT-23V002-1889.PDF",
+    "source_sha256": "e402a67f8fc9565b792012a88e81d9801086618aef278c6e3c517ee9af48fe1d",
+    "listed_type": "Defect Notice 573 Report",
+    "page_count": 3,
+    "printed_date": "2023-01-06",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-01-25",
+    "planned_owner_end": "2023-01-25",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-06"
+        ],
+        "quote": "SUBMISSION DATE : JAN 06, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-01-25",
+          "2023-01-25"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : JAN 25, 2023 - JAN 25, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V002000",
+    "document_id": "RCONL-23V002-1384.pdf",
+    "source_sha256": "afb975485d676833eadcf2eb04414d7746eecbd68ed76f4e009fa38641dbeb0e",
+    "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": "2023-01-09",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "INCLUDED_WITH_NOTICE",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 9, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Template placeholders; covers said to be included in this mailing. Printed date is not mailing proof."
+  },
+  {
+    "campaign": "23V003000",
+    "document_id": "RCLRPT-23V003-2158.PDF",
+    "source_sha256": "2ef7b51c756be75b44d52a08371c25e17cb4867fad43400c7aec72772ab8e579",
+    "listed_type": "Defect Notice 573 Report",
+    "page_count": 3,
+    "printed_date": "2023-01-12",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-10",
+    "planned_owner_end": "2023-03-10",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-12"
+        ],
+        "quote": "SUBMISSION DATE : JAN 12, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-03-10",
+          "2023-03-10"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 10, 2023 - MAR 10, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V003000",
+    "document_id": "RCAK-23V003-1197.pdf",
+    "source_sha256": "a97de8cce36fe76e80839cd9e84a83829fcbeb095d08c1503b61698ddf24c7b4",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 2,
+    "printed_date": "2023-01-17",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 17, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed March 10, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-03-10",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V003000",
+    "document_id": "RCONL-23V003-7340.pdf",
+    "source_sha256": "971c328b323c26b0a2c5e6b167a065f5bac62595c5527e26e3c0cfce9593c286",
+    "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+    "page_count": 5,
+    "printed_date": "2023-02-16",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "February 16, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Letter date is visible in the page header. Page 3 service notice repeats a release date; neither proves mailing."
+  },
+  {
+    "campaign": "23V004000",
+    "document_id": "RCLRPT-23V004-1235.PDF",
+    "source_sha256": "2bbf75840fcfb0d1762c99f3a1efb4ef4933e63f67b277fd45b1e20dbcac7510",
+    "listed_type": "Noncompliance Notice 573 Report",
+    "page_count": 3,
+    "printed_date": "2023-01-13",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-02-22",
+    "planned_owner_end": "2023-02-22",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-13"
+        ],
+        "quote": "SUBMISSION DATE : JAN 13, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-02-22",
+          "2023-02-22"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : FEB 22, 2023 - FEB 22, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V004000",
+    "document_id": "RCAK-23V004-8788.pdf",
+    "source_sha256": "39253ee9cc8dc79644050eba6cf85a5b9a62c4fdfe9a7e500c366382613491fa",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 2,
+    "printed_date": "2023-01-17",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 17, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed February 22, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-02-22",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V004000",
+    "document_id": "RCONL-23V004-5243.pdf",
+    "source_sha256": "b495f04fdbfbbab589ccf91c888312673ef79dc2a2980eace0817c92456ca778",
+    "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": "2023-01",
+    "date_precision": "month",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "INCLUDED_WITH_NOTICE",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Month only; remedy said to be included. No exact letter day or independently verified delivery."
+  },
+  {
+    "campaign": "23V005000",
+    "document_id": "RCLRPT-23V005-1295.PDF",
+    "source_sha256": "c18ad8499c93f761324e991a746a9b43f76b8254597bdbe83b53a8b674c97457",
+    "listed_type": "Defect Notice 573 Report",
+    "page_count": 3,
+    "printed_date": "2023-01-13",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [
+      {
+        "date": "2023-02-10",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "description": "Narrative says notice will be sent at the latest by February 10, 2023; retain separately from structured row."
+      }
+    ],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-02-10",
+    "planned_owner_end": "2023-02-10",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-13"
+        ],
+        "quote": "SUBMISSION DATE : JAN 13, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-02-10",
+          "2023-02-10"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : FEB 10, 2023 - FEB 10, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V005000",
+    "document_id": "RCAK-23V005-7649.pdf",
+    "source_sha256": "870b4a3c7280101ed926dd2932cff2909e2022e63700f995c07142098e112bb7",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 2,
+    "printed_date": "2023-01-18",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 18, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed February 10, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-02-10",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V005000",
+    "document_id": "RCLRPT-23V005-1416.PDF",
+    "source_sha256": "b3d3ad33fbf666dfa97b306202d2266d1fb0d68ca954b2b3400fade77b653a96",
+    "listed_type": "Recall 573 Report - 1/31/23",
+    "page_count": 4,
+    "printed_date": "2023-01-31",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [
+      {
+        "date": "2023-02-10",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "description": "Narrative says notice will be sent at the latest by February 10, 2023; retain separately from structured row."
+      }
+    ],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-09-03",
+    "planned_owner_end": "2023-09-03",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-31"
+        ],
+        "quote": "SUBMISSION DATE : JAN 31, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-09-03",
+          "2023-09-03"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : SEP 03, 2023 - SEP 03, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V005000",
+    "document_id": "RCLRPT-23V005-6032.PDF",
+    "source_sha256": "91c11fae7a83599d4995d1ec2c935ca373a2fe82486233ad37b108b920d1c694",
+    "listed_type": "Recall 573 Report - February 7, 2023",
+    "page_count": 4,
+    "printed_date": "2023-02-07",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [
+      {
+        "date": "2023-02-10",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "description": "Narrative says notice will be sent at the latest by February 10, 2023; retain separately from structured row."
+      }
+    ],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-09",
+    "planned_owner_end": "2023-03-09",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-02-07"
+        ],
+        "quote": "SUBMISSION DATE : FEB 07, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-03-09",
+          "2023-03-09"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 09, 2023 - MAR 09, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V005000",
+    "document_id": "RCONL-23V005-8634.pdf",
+    "source_sha256": "beea90d893e3ece8026aaf728a3618d0fdc4255d516af62c13015ee741983337",
+    "listed_type": "Owner Notification Letter(Part 577) - Redacted",
+    "page_count": 3,
+    "printed_date": "2023-03-02",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "March 2nd, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Redacted letter; correction is offered, but first availability is not dated."
+  },
+  {
+    "campaign": "23V006000",
+    "document_id": "RCLRPT-23V006-1115.PDF",
+    "source_sha256": "985a1165ddce806cb8b5195d5464a030dc70dc9ce1fb89f8bfcae444061a43d0",
+    "listed_type": "Defect Notice 573 Report",
+    "page_count": 3,
+    "printed_date": "2023-01-16",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-02-01",
+    "planned_owner_end": "2023-02-01",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-16"
+        ],
+        "quote": "SUBMISSION DATE : JAN 16, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-02-01",
+          "2023-02-01"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : FEB 01, 2023 - FEB 01, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V006000",
+    "document_id": "RCAK-23V006-8452.pdf",
+    "source_sha256": "5aa2527f5f0acf29dfabb94d5b88bf8297767a51ec7ac9e85e56f46e99b944f0",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 3,
+    "printed_date": "2023-01-20",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 20, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed February 1, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-02-01",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V006000",
+    "document_id": "RCLRPT-23V006-4800.PDF",
+    "source_sha256": "f5184690f9a22881ee5815cd4a2001a171756db5ef7070a8ddf04614b517ef59",
+    "listed_type": "Recall 573 Report - January 27, 2023",
+    "page_count": 3,
+    "printed_date": "2023-01-27",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-02-01",
+    "planned_owner_end": "2023-02-01",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-27"
+        ],
+        "quote": "SUBMISSION DATE : JAN 27, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-02-01",
+          "2023-02-01"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : FEB 01, 2023 - FEB 01, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V006000",
+    "document_id": "RCLRPT-23V006-7268.PDF",
+    "source_sha256": "63ae5fe3f21e9814974063a1b80241cbaf7b012be66b1a939696f4873d9ae6c5",
+    "listed_type": "Recall 573 Report - January 25, 2023",
+    "page_count": 3,
+    "printed_date": "2023-01-25",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-02-01",
+    "planned_owner_end": "2023-02-01",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-25"
+        ],
+        "quote": "SUBMISSION DATE : JAN 25, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-02-01",
+          "2023-02-01"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : FEB 01, 2023 - FEB 01, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V006000",
+    "document_id": "RCONL-23V006-7530.pdf",
+    "source_sha256": "065857e6b3a667a2e8aec3fe8704afa83683f1ba9adae2d92aa9c7707cc499cc",
+    "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+    "page_count": 1,
+    "printed_date": "2023-02-09",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "09 February 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Dealer authorized to fit heat shield; printed date is not mailing proof."
+  },
+  {
+    "campaign": "23V006000",
+    "document_id": "RCRN-23V006-7410.pdf",
+    "source_sha256": "7364a96f3e2f0cd661b34e2a6458c07238ec3aad64b93181fc3463c872c4c218",
+    "listed_type": "Generic Polk Campaign - US Final Owner Letter",
+    "page_count": 1,
+    "printed_date": "2024-04-02",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "GENERIC_RENOTIFICATION",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "2 April 2024"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Listed as final owner letter but uses model/year/VIN placeholders and is not tied to a specific campaign in its body."
+  },
+  {
+    "campaign": "23V006000",
+    "document_id": "RCRN-23V006-4962.pdf",
+    "source_sha256": "355a39e8bcf3d42b1fbdffaaebf522b561ace3b92685e62315f13378f0780b84",
+    "listed_type": "ISSUED Renotification Notice - Email Renotification Owner Letter",
+    "page_count": 1,
+    "printed_date": null,
+    "date_precision": "none",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "GENERIC_RENOTIFICATION",
+    "evidence": [],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Undated generic email template; no campaign-specific final-notification date."
+  },
+  {
+    "campaign": "23V007000",
+    "document_id": "RCLRPT-23V007-8384.PDF",
+    "source_sha256": "1533008bfb90c1a5e9b8b186418079c9772b31f31f819888fb949bd85a30d234",
+    "listed_type": "Noncompliance Notice 573 Report",
+    "page_count": 4,
+    "printed_date": "2023-01-16",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 4,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-17",
+    "planned_owner_end": "2023-03-17",
+    "planned_owner_page": 4,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-16"
+        ],
+        "quote": "SUBMISSION DATE : JAN 16, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 4,
+        "dates": [
+          "2023-03-17",
+          "2023-03-17"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 17, 2023 - MAR 17, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V007000",
+    "document_id": "RCAK-23V007-4338.pdf",
+    "source_sha256": "7c0c2b71c5b7420ed570fc62bda782588c22826fb02410dd6ab65b0ee2d3d3ea",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 2,
+    "printed_date": "2023-01-20",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 20, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed March 17, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-03-17",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V007000",
+    "document_id": "RCONL-23V007-7885.pdf",
+    "source_sha256": "55777efc35613793cd391a6668f4d8c04ec0661211300fd7ab11bf06c11fbd25",
+    "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": "2023-03-10",
+    "date_precision": "day",
+    "date_page": 2,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "LATER_UPGRADE_PLANNED",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 2,
+        "clause": "March 10, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Peterbilt notice offers current correction and says separate programming faults will be addressed with a future upgrade."
+  },
+  {
+    "campaign": "23V007000",
+    "document_id": "RCONL-23V007-2997.pdf",
+    "source_sha256": "328cf1013d9e8abf244ba1e1a7c600332bf01259aa4fbf0f8970ce73491ebbfa",
+    "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": "2023-03-02",
+    "date_precision": "day",
+    "date_page": 2,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "LATER_UPGRADE_PLANNED",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 2,
+        "clause": "March 2, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Kenworth notice has a different date; future upgrade is distinct from this correction. Two brands do not imply contradictory mailing."
+  },
+  {
+    "campaign": "23V008000",
+    "document_id": "RCLRPT-23V008-7288.PDF",
+    "source_sha256": "c14bc44f8bfe85ac5b12fcab52a53e45ed01c601439f3efa3a06d0e5b545cd1f",
+    "listed_type": "Noncompliance Notice 573 Report",
+    "page_count": 3,
+    "printed_date": "2023-01-13",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "PLANNED_KIT",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-06",
+    "planned_owner_end": "2023-03-31",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-13"
+        ],
+        "quote": "SUBMISSION DATE : JAN 13, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-03-06",
+          "2023-03-31"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 06, 2023 - MAR 31, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately. Available field remedy kit appears in a future notification plan, not a dated current-availability assertion."
+  },
+  {
+    "campaign": "23V008000",
+    "document_id": "RCAK-23V008-7199.pdf",
+    "source_sha256": "6880d27ac3f46b3b338ee2d448115f3750089a31d2ef1d1605062103843f7d2b",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 2,
+    "printed_date": "2023-01-19",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 19, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed March 6, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-03-06",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V008000",
+    "document_id": "RCLRPT-23V008-5127.PDF",
+    "source_sha256": "2a08e5868a9535b73083afbfbd8376e1ccbd729a62f70740862ad8b3bf661fda",
+    "listed_type": "Recall 573 Report - February 28, 2023",
+    "page_count": 4,
+    "printed_date": "2023-02-28",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "PLANNED_KIT",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 4,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-17",
+    "planned_owner_end": "2023-03-17",
+    "planned_owner_page": 4,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-02-28"
+        ],
+        "quote": "SUBMISSION DATE : FEB 28, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 4,
+        "dates": [
+          "2023-03-17",
+          "2023-03-17"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 17, 2023 - MAR 17, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately. Available field remedy kit appears in a future notification plan, not a dated current-availability assertion."
+  },
+  {
+    "campaign": "23V008000",
+    "document_id": "RCLRPT-23V008-7019.PDF",
+    "source_sha256": "cdb3e9a0c5a5be4cfc7269f41c07ed81f3a089cdd2b745364b6d1a9b63909bc5",
+    "listed_type": "Recall 573 Report - February 28, 2023",
+    "page_count": 4,
+    "printed_date": "2023-02-28",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "PLANNED_KIT",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 4,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-14",
+    "planned_owner_end": "2023-03-14",
+    "planned_owner_page": 4,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-02-28"
+        ],
+        "quote": "SUBMISSION DATE : FEB 28, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 4,
+        "dates": [
+          "2023-03-14",
+          "2023-03-14"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 14, 2023 - MAR 14, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately. Available field remedy kit appears in a future notification plan, not a dated current-availability assertion."
+  },
+  {
+    "campaign": "23V008000",
+    "document_id": "RCONL-23V008-9241.pdf",
+    "source_sha256": "0eb7313978dded5a944922c67c0fc612ebf91d3a1f40b02bb41af8f2e0647fc6",
+    "listed_type": "Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": "2023-03-17",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "KIT_CREATED_INSTRUCTIONS",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "March 17, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "First Notice; kit created and installation requested. Not explicitly called final/remedy owner notice."
+  },
+  {
+    "campaign": "23V008000",
+    "document_id": "RCLRPT-23V008-6503.PDF",
+    "source_sha256": "d271e118f4e230af5c52f6cc8fa5b2bd0f8f27d1f347f3b6c84bd19a3010bf78",
+    "listed_type": "Recall 573 Report - 05/01/2023",
+    "page_count": 4,
+    "printed_date": "2023-05-01",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "PLANNED_KIT",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 4,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-17",
+    "planned_owner_end": "2023-03-17",
+    "planned_owner_page": 4,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-05-01"
+        ],
+        "quote": "SUBMISSION DATE : MAY 01, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 4,
+        "dates": [
+          "2023-03-17",
+          "2023-03-17"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 17, 2023 - MAR 17, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately. Available field remedy kit appears in a future notification plan, not a dated current-availability assertion."
+  },
+  {
+    "campaign": "23V009000",
+    "document_id": "RCLRPT-23V009-5168.PDF",
+    "source_sha256": "cee4a0d1a4b34c71445cb8123c448bf00fcdca88f83672877d143b38360a684c",
+    "listed_type": "Defect Notice 573 Report",
+    "page_count": 3,
+    "printed_date": "2023-01-13",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-01-23",
+    "planned_owner_end": "2023-02-24",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-13"
+        ],
+        "quote": "SUBMISSION DATE : JAN 13, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-01-23",
+          "2023-02-24"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : JAN 23, 2023 - FEB 24, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V009000",
+    "document_id": "RCAK-23V009-5551.pdf",
+    "source_sha256": "8722b793b3a2af4e7c034626957d601084d756c24f0f587ad99445bf88d03c5c",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 3,
+    "printed_date": "2023-01-23",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 23, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed January 23, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-01-23",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V009000",
+    "document_id": "RCONL-23V009-0058.pdf",
+    "source_sha256": "0cba772ed7c496d3f6a398d904e4ae79d095413361e938457046f33fafc3decc",
+    "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+    "page_count": 4,
+    "printed_date": "2023-02-01",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "1 February, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Letter gives welding instructions; no first-availability date."
+  },
+  {
+    "campaign": "23V009000",
+    "document_id": "RMISC-23V009-9232.pdf",
+    "source_sha256": "a751b49fb10da4bc6575a5ea97d889a69a5ec9ff5e0077f9474852412a2463bc",
+    "listed_type": "11 April, 2023\n573 Report on Defect and Recall Campaign # 23V009",
+    "page_count": 2,
+    "printed_date": "2023-04-11",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "SUPPLEMENTAL_573_REPORT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "11 April, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Supplemental report letter. Mention of January 13 notification concerns its regulatory filing; it does not identify an owner mailing."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RCAK-23V010-2636.pdf",
+    "source_sha256": "f4fec4237f1b74ccbad1af430ebadbdcc6ecd0213499024c423859f242bce5f9",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 2,
+    "printed_date": "2023-01-23",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 23, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed March 8, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-03-08",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RCLRPT-23V010-9230.PDF",
+    "source_sha256": "f6e27ff860b2f7be06ff458a00d1e36e2af5d9dcf17f3db541d65755afeebf4b",
+    "listed_type": "Defect Notice 573 Report",
+    "page_count": 3,
+    "printed_date": "2023-01-17",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-08",
+    "planned_owner_end": "2023-03-08",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-17"
+        ],
+        "quote": "SUBMISSION DATE : JAN 17, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-03-08",
+          "2023-03-08"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 08, 2023 - MAR 08, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RCLRPT-23V010-6204.PDF",
+    "source_sha256": "78c1e31524365477d636644ae411d6fdb5bd95090636a5753fcad8f14174b795",
+    "listed_type": "Recall 573 Report - 2/23/23",
+    "page_count": 3,
+    "printed_date": "2023-02-23",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-08",
+    "planned_owner_end": "2023-03-08",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-02-23"
+        ],
+        "quote": "SUBMISSION DATE : FEB 23, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-03-08",
+          "2023-03-08"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 08, 2023 - MAR 08, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RCONL-23V010-5996.pdf",
+    "source_sha256": "0017c320557327a4aa268da92f22aa154e563aa95d35442960b944da393340da",
+    "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": null,
+    "date_precision": "none",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Undated template with placeholders; repair instructions do not establish which phase or mailing day."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RIONL-23V010-8590.pdf",
+    "source_sha256": "bbadd064c19b12b9abf511b0d563411fe2792060864b3ea4345a7eaab954a8f7",
+    "listed_type": "ISSUED Interim Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": null,
+    "date_precision": "none",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": true,
+    "availability_statement": "NOT_CURRENTLY_AVAILABLE",
+    "notice_role": "INTERIM_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "The remedy for this condition is not currently available."
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Undated template with placeholders. The explicit interim listing and unavailable-remedy text do not bind an exact mailing day."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RCLRPT-23V010-3048.PDF",
+    "source_sha256": "d4f524269b80ce9907055cad52fae7b7061ed19aa39ccf957088c2cc1ada6d76",
+    "listed_type": "Recall 573 Report - 3/14/23",
+    "page_count": 3,
+    "printed_date": "2023-03-14",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [
+      {
+        "date": "2023-02-23",
+        "state": "REPORTED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2022-2023 model years"
+      },
+      {
+        "date": "2023-03-21",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2021 model year"
+      },
+      {
+        "date": "2023-05-02",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2019-2020 model years"
+      },
+      {
+        "date": "2023-06-15",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2017-2018 model years"
+      }
+    ],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-08",
+    "planned_owner_end": "2023-03-08",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-03-14"
+        ],
+        "quote": "SUBMISSION DATE : MAR 14, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-03-08",
+          "2023-03-08"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 08, 2023 - MAR 08, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately. Narrative contains phased reported and planned dates; the original structured March 8 row remains unchanged."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RCLRPT-23V010-4380.PDF",
+    "source_sha256": "6194d1e969c3d6b6078f70b50d0df7257f778b2c7a37b210a40870b689e48a49",
+    "listed_type": "Recall 573 Report - 5/18/23",
+    "page_count": 3,
+    "printed_date": "2023-05-18",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [
+      {
+        "date": "2023-02-23",
+        "state": "REPORTED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2022-2023 model years"
+      },
+      {
+        "date": "2023-03-21",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2021 model year"
+      },
+      {
+        "date": "2023-05-02",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2019-2020 model years"
+      },
+      {
+        "date": "2023-06-15",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2017-2018 model years"
+      },
+      {
+        "date": "2023-07-18",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2017-2018 model years; revised plan"
+      }
+    ],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-08",
+    "planned_owner_end": "2023-03-08",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-05-18"
+        ],
+        "quote": "SUBMISSION DATE : MAY 18, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-03-08",
+          "2023-03-08"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 08, 2023 - MAR 08, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately. Narrative contains phased reported and planned dates; the original structured March 8 row remains unchanged."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RCONL-23V010-0488.pdf",
+    "source_sha256": "d594ee6946597852428863b79aff9b059bad60d9945b2e005d1a2a3377cb598c",
+    "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": null,
+    "date_precision": "none",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Undated template for 2017-2018 vehicles; cannot bind to an exact mailing phase."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RCLRPT-23V010-4210.PDF",
+    "source_sha256": "0a4b0d22104828d80024b76bf2098ae1875e0929ff44a672545ab376f4ce25cd",
+    "listed_type": "Recall 573 Report 9/26/23",
+    "page_count": 4,
+    "printed_date": "2023-09-26",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 3,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [
+      {
+        "date": "2023-02-23",
+        "state": "REPORTED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2022-2023 model years"
+      },
+      {
+        "date": "2023-03-21",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2021 model year"
+      },
+      {
+        "date": "2023-05-02",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2019-2020 model years"
+      },
+      {
+        "date": "2023-06-15",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2017-2018 model years"
+      },
+      {
+        "date": "2023-07-18",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2017-2018 model years; revised plan"
+      }
+    ],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-08",
+    "planned_owner_end": "2023-03-08",
+    "planned_owner_page": 3,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-09-26"
+        ],
+        "quote": "SUBMISSION DATE : SEP 26, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 3,
+        "dates": [
+          "2023-03-08",
+          "2023-03-08"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 08, 2023 - MAR 08, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately. Narrative contains phased reported and planned dates; the original structured March 8 row remains unchanged."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RCLRPT-23V010-7298.PDF",
+    "source_sha256": "0103637e10b940961b7def686cb2f7ea2768d0adcf8d2df6b1d6efac63507163",
+    "listed_type": "Recall 573 Report - May 16, 2024",
+    "page_count": 4,
+    "printed_date": "2024-05-16",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 4,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [
+      {
+        "date": "2023-02-23",
+        "state": "REPORTED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2022-2023 model years"
+      },
+      {
+        "date": "2023-03-21",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2021 model year"
+      },
+      {
+        "date": "2023-05-02",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2019-2020 model years"
+      },
+      {
+        "date": "2023-06-15",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2017-2018 model years"
+      },
+      {
+        "date": "2023-07-18",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2017-2018 model years; revised plan"
+      }
+    ],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-08",
+    "planned_owner_end": "2023-03-08",
+    "planned_owner_page": 4,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2024-05-16"
+        ],
+        "quote": "SUBMISSION DATE : MAY 16, 2024"
+      },
+      {
+        "role": "planned_owner",
+        "page": 4,
+        "dates": [
+          "2023-03-08",
+          "2023-03-08"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 08, 2023 - MAR 08, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately. Narrative contains phased reported and planned dates; the original structured March 8 row remains unchanged."
+  },
+  {
+    "campaign": "23V010000",
+    "document_id": "RCLRPT-23V010-8466.PDF",
+    "source_sha256": "c83dbebda8c665ca92d8cc18585f780f151348614b77e1a98fb560332b9e6d0c",
+    "listed_type": "Recall 573 Report - January 30, 2025",
+    "page_count": 4,
+    "printed_date": "2025-01-30",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 4,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [
+      {
+        "date": "2023-02-23",
+        "state": "REPORTED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2022-2023 model years"
+      },
+      {
+        "date": "2023-03-21",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2021 model year"
+      },
+      {
+        "date": "2023-05-02",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2019-2020 model years"
+      },
+      {
+        "date": "2023-06-15",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2017-2018 model years"
+      },
+      {
+        "date": "2023-07-18",
+        "state": "PLANNED",
+        "role": "GENERIC_NOTICE",
+        "page": 3,
+        "population": "2017-2018 model years; revised plan"
+      }
+    ],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-08",
+    "planned_owner_end": "2023-03-08",
+    "planned_owner_page": 4,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2025-01-30"
+        ],
+        "quote": "SUBMISSION DATE : JAN 30, 2025"
+      },
+      {
+        "role": "planned_owner",
+        "page": 4,
+        "dates": [
+          "2023-03-08",
+          "2023-03-08"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 08, 2023 - MAR 08, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately. Narrative contains phased reported and planned dates; the original structured March 8 row remains unchanged."
+  },
+  {
+    "campaign": "23V011000",
+    "document_id": "RCLRPT-23V011-3383.PDF",
+    "source_sha256": "39f4ce8916e6760a7e5db567ebfc80a7c4c74bf4198e5e6e7370be45c682b64b",
+    "listed_type": "Defect Notice 573 Report",
+    "page_count": 4,
+    "printed_date": "2023-01-18",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 4,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-10",
+    "planned_owner_end": "2023-03-10",
+    "planned_owner_page": 4,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-18"
+        ],
+        "quote": "SUBMISSION DATE : JAN 18, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 4,
+        "dates": [
+          "2023-03-10",
+          "2023-03-10"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 10, 2023 - MAR 10, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V011000",
+    "document_id": "RCAK-23V011-6351.pdf",
+    "source_sha256": "a62f54320bb629c1936d5f588cbdd92b1e5f923b0b587f6da43c7eb961d4c11b",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 2,
+    "printed_date": "2023-01-24",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 24, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed March 10, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-03-10",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V011000",
+    "document_id": "RCLRPT-23V011-8434.PDF",
+    "source_sha256": "7e0f3c89389fa7ae36e3a60df460545f202d535963905e397d536236ab4a62ea",
+    "listed_type": "Recall 573 Report - 2/16/23",
+    "page_count": 4,
+    "printed_date": "2023-02-16",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 4,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-10",
+    "planned_owner_end": "2023-03-10",
+    "planned_owner_page": 4,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-02-16"
+        ],
+        "quote": "SUBMISSION DATE : FEB 16, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 4,
+        "dates": [
+          "2023-03-10",
+          "2023-03-10"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 10, 2023 - MAR 10, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V011000",
+    "document_id": "RCLRPT-23V011-2198.PDF",
+    "source_sha256": "8fda1d776b0395bdaa3044586f2c3ce14f11fb8c354b032451ebfc17e926349e",
+    "listed_type": "Recall 573 Report - 2/16/23",
+    "page_count": 4,
+    "printed_date": "2023-02-16",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "PLANNED_OWNER_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 4,
+        "clause": "Planned Owner Notification Date"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-10",
+    "planned_owner_end": "2023-03-10",
+    "planned_owner_page": 4,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-02-16"
+        ],
+        "quote": "SUBMISSION DATE : FEB 16, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 4,
+        "dates": [
+          "2023-03-10",
+          "2023-03-10"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 10, 2023 - MAR 10, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V011000",
+    "document_id": "RCONL-23V011-0283.pdf",
+    "source_sha256": "204a5602a274d19a0be20ce65d68ff895d95df6d997ac11a69b66a39dddd0fe0",
+    "listed_type": "ISSUED Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": "2023-02",
+    "date_precision": "month",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "AVAILABLE_ASSERTED",
+    "notice_role": "REMEDY_NOTICE_SAMPLE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Remedy is Available"
+      },
+      {
+        "page": 1,
+        "clause": "February 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "February 2023 only and SAMPLE watermark; explicit availability assertion is not a first-availability day or delivery proof."
+  },
+  {
+    "campaign": "23V012000",
+    "document_id": "RCAK-23V012-1552.pdf",
+    "source_sha256": "702d4ca822e8da3b9d3b894d82c6fc4ee49c2e629185e2876a2b4579a1960176",
+    "listed_type": "Recall Acknowledgement",
+    "page_count": 2,
+    "printed_date": "2023-01-20",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "UNKNOWN",
+    "notice_role": "ACKNOWLEDGEMENT",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "January 20, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "Owner notification letters are expected to be mailed March 15, 2023"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_notice_date": "2023-03-15",
+    "note": "Acknowledgement date is not an owner-notification day. Expected mailing and generic final-letter filing requirements are not completed-event assertions."
+  },
+  {
+    "campaign": "23V012000",
+    "document_id": "RCLRPT-23V012-8186.PDF",
+    "source_sha256": "8841a7daeb87d3c008f64dd6df0651c472703824c904592bccacb9548366b668",
+    "listed_type": "Defect Notice 573 Report",
+    "page_count": 5,
+    "printed_date": "2023-01-19",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "OTA_LATER_PLANNED",
+    "notice_role": "PLANNED_REMEDY_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 5,
+        "clause": "Planned Owner Notification Date"
+      },
+      {
+        "page": 5,
+        "clause": "Remedy Notices"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-15",
+    "planned_owner_end": "2023-03-15",
+    "planned_owner_page": 5,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-01-19"
+        ],
+        "quote": "SUBMISSION DATE : JAN 19, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 5,
+        "dates": [
+          "2023-03-15",
+          "2023-03-15"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 15, 2023 - MAR 15, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V012000",
+    "document_id": "RCLRPT-23V012-6479.PDF",
+    "source_sha256": "2f9902766432511402a67d17d77ebf60ae5ab36a265814da03aa98d43d0dacb9",
+    "listed_type": "Recall 573 Report - February 10, 2023",
+    "page_count": 5,
+    "printed_date": "2023-02-10",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "REPORTED_SUBMISSION",
+    "interim_explicit": false,
+    "availability_statement": "OTA_LATER_PLANNED",
+    "notice_role": "PLANNED_REMEDY_NOTICE",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "Submission Date"
+      },
+      {
+        "page": 5,
+        "clause": "Planned Owner Notification Date"
+      },
+      {
+        "page": 5,
+        "clause": "Remedy Notices"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "planned_owner_start": "2023-03-15",
+    "planned_owner_end": "2023-03-15",
+    "planned_owner_page": 5,
+    "two_reader_cells": [
+      {
+        "role": "submission",
+        "page": 1,
+        "dates": [
+          "2023-02-10"
+        ],
+        "quote": "SUBMISSION DATE : FEB 10, 2023"
+      },
+      {
+        "role": "planned_owner",
+        "page": 5,
+        "dates": [
+          "2023-03-15",
+          "2023-03-15"
+        ],
+        "quote": "PLANNED OWNER NOTIFICATION DATE : MAR 15, 2023 - MAR 15, 2023"
+      }
+    ],
+    "note": "Planned row is not an actual mailing or first-availability date; amended reports are retained separately."
+  },
+  {
+    "campaign": "23V012000",
+    "document_id": "RCONL-23V012-2942.pdf",
+    "source_sha256": "1d2b1dc1a22f4454c0c3945dec75a62672a038c17b62cda4440f7a89d2fca31a",
+    "listed_type": "Issued Owner Notification Letter(Part 577)",
+    "page_count": 2,
+    "printed_date": "2023-02-27",
+    "date_precision": "day",
+    "date_page": 1,
+    "date_state": "DOCUMENT_DATE_ONLY",
+    "interim_explicit": false,
+    "availability_statement": "CHANNEL_DEPENDENT",
+    "notice_role": "REMEDY_INSTRUCTIONS",
+    "evidence": [
+      {
+        "page": 1,
+        "clause": "February 27, 2023"
+      },
+      {
+        "page": 1,
+        "clause": "this software upgrade performed at your authorized Volvo retailer"
+      }
+    ],
+    "additional_notification_events": [],
+    "review": "NATIVE_PIXELS_AND_EXTRACTED_TEXT",
+    "physical_first_availability_date": null,
+    "note": "Letter says dealer upgrade can be performed, while OTA will not be available until mid-March. Preserve channel distinction."
+  }
+]
