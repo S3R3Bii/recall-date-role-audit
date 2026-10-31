@@ -1,0 +1,32 @@
+{
+  "actual_remedy_delay_distribution": null,
+  "adjudicated_documents": 60,
+  "api_model_records": 113,
+  "api_past_assertion_campaigns": 7,
+  "api_planned_only_campaigns": 5,
+  "campaigns_requested": 12,
+  "campaigns_returned": 12,
+  "category_counts": {
+    "CONFLICTING_DATES": 1,
+    "MATCH_GENERIC_NOTICE": 6,
+    "MATCH_INTERIM": 0,
+    "MATCH_REMEDY_NOTICE": 0,
+    "UNRESOLVED": 5
+  },
+  "document_counts_by_role": {
+    "ACKNOWLEDGEMENT": 12,
+    "GENERIC_RENOTIFICATION": 2,
+    "INTERIM_NOTICE": 1,
+    "PLANNED_OWNER_NOTICE": 25,
+    "PLANNED_REMEDY_NOTICE": 4,
+    "REMEDY_INSTRUCTIONS": 14,
+    "REMEDY_NOTICE_SAMPLE": 1,
+    "SUPPLEMENTAL_573_REPORT": 1
+  },
+  "document_pages": 170,
+  "flat_model_rows": 182,
+  "physical_first_availability_known": 0,
+  "planned_report_rows": 29,
+  "qualification": "Finite source-informed campaign audit; source equality is not verified delivery or physical first availability.",
+  "usable_field_campaigns": 12
+}
